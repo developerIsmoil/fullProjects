@@ -1,0 +1,4 @@
+com\controller\StudentController.class
+com\config\AppInitializer.class
+com\model\Student.class
+com\config\WebMvcConfig.class
